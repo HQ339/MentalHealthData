@@ -22,6 +22,8 @@ This dataset was originally obtained from Kaggle and is licensed under the Apach
 
 - [Add a file '解释.txt']
 
+- [For some file, move 'China' to first row]
+
 ## License
 
 This repository is licensed under the Apache 2.0 License. See the [LICENSE](./LICENSE) file for more information.
